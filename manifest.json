@@ -1,7 +1,7 @@
 {
     "name": "Poetry Box",
     "short_name": "Poetry Box",
-    "start_url": "/index.html",
+    "start_url": "/Poetry-Box/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
